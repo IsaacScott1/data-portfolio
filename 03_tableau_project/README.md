@@ -1,18 +1,23 @@
-# Project 03 — Tableau Analysis (In Progress)
+# Project 03 — Tableau Dashboard (In Progress)
 
 ## Goal
-(1–2 lines on the business question)
+Build an interactive dashboard that tells a clear business story (KPIs, trends, breakdowns).
 
 ## Dataset
-(source + what’s in it)
+(put source + what’s inside)
 
 ## Tools
-Tableau 
+Tableau Public
+
+## Dashboard
+- Link: (coming)
 
 ## Process
-- (step 1)
-- (step 2)
-- (step 3)
+- Define KPIs + audience
+- Build calculated fields
+- Create charts (trend, category/product, region)
+- Assemble dashboard + add filters
+- Add insights + annotations
 
 ## Key Insights
 - (insight 1)
@@ -20,4 +25,4 @@ Tableau
 - (insight 3)
 
 ## Files
- (coming)
+- Screenshots in `/Assets`
