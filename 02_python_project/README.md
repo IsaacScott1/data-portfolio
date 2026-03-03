@@ -1,18 +1,20 @@
-# Project 02 —Python Business Anaysis (In Progress)
+# Project 02 — Python EDA + Insights (In Progress)
 
 ## Goal
-(1–2 lines on the business question)
+Use Python to clean, explore, and analyze a real dataset, then communicate insights with visuals.
 
 ## Dataset
-(source + what’s in it)
+(put source + what’s inside)
 
 ## Tools
-Python
+Python (pandas, matplotlib), Jupyter Notebook
 
 ## Process
-- (step 1)
-- (step 2)
-- (step 3)
+- Load + inspect data
+- Clean + handle missing values/outliers
+- Exploratory analysis
+- Visualize key trends
+- Summarize insights + recommendations
 
 ## Key Insights
 - (insight 1)
@@ -20,4 +22,4 @@ Python
 - (insight 3)
 
 ## Files
- (coming)
+- `analysis.ipynb` (coming)
